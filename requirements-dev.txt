@@ -5,3 +5,4 @@ pytest-cov
 pytest>=5.4.3
 python-dotenv
 requests_mock
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
