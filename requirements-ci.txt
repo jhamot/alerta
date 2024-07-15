@@ -1,3 +1,4 @@
 lxml==4.9.2
 pysaml2==7.2.1
 python-ldap==3.4.3
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
